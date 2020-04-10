@@ -45,12 +45,15 @@ social:
   - icon: telegram
     icon_pack: fab
     link: https://t.me/PTSSry
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/ptss_ry/
   - icon: facebook
     icon_pack: fab
     link: https://www.facebook.com/ptssry/
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/ptss_ry/
+  - icon: calendar-alt
+    icon_pack: fas
+    link: https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com
 # - icon: envelope
 #   icon_pack: fas
 #   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
@@ -70,6 +73,10 @@ user_groups:
 - Visitors
 ---
 
-Tuleeko sinusta seuraava sauna maisteri? Liity mukaan lämminhenkiseen saunaseuraan.
+Etsikö Otaniemen saunoja tai saunaseuraa? Tuleeko sinusta seuraava saunamaisteri? Liity mukaan lämminhenkiseen Polyteknikkojen saunaseuraan. [Telegram](https://t.me/PTSSry) kanavalla voit kysellä saunaseuraa tai keskustella sauna-aiheisista asioista. PTSS järjestää myös sauna-aiheisia tapahtumia joista ilmoitetaan Telegramin kautta sekä [Facebook](https://www.facebook.com/ptssry/) sivuillamme.
 
-[Teekkarikylän yleiset saunavuorot](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com)
+Otaniemessä saunomiseen liittyen PTSS on kerännyt tietoa Otaniemen saunoista [saunat]({{< ref "/sauna/index.md" >}}) sivulle. Sivut sisältävät kaikki Otaniemen saunat, saunojen paikat ja tiedot sekä kalenterin [Teekkarikylän yleisistä saunavuoroista](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com).
+
+Seuraan voi liittyä tekemällä [jäsenhakemuksen](#contact) linkin ohjaamalla sivulla. Jäseneksi liittymällä voit osallistua seuran tapahtumiin sekä saat tyylikkään saunahatun!
+
+Tietoa seuran haalarimerkistä ja saunahatusta löytyy [tuotteet]({{< ref "/accessories/index.md" >}}) sivulla.
