@@ -24,9 +24,14 @@
 #   weight = 40
 
 [[main]]
-  name = "Hakemus"
+  name = "Jäsenyys"
   url = "#contact"
   weight = 60
+
+[[main]]
+  name = "Ihmiset"
+  url = "#people"
+  weight = 65
 
 [[main]]
   name = "Saunat"

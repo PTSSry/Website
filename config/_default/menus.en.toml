@@ -24,9 +24,14 @@
 #   weight = 40
 
 [[main]]
-  name = "Join"
+  name = "Membership"
   url = "#contact"
   weight = 60
+
+[[main]]
+  name = "People"
+  url = "#people"
+  weight = 65
 
 [[main]]
   name = "Saunas"

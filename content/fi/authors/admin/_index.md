@@ -69,8 +69,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Admin
 ---
 
 Etsikö Otaniemen saunoja tai saunaseuraa? Tuleeko sinusta seuraava saunamaisteri? Liity mukaan lämminhenkiseen Polyteknikkojen saunaseuraan. [Telegram](https://t.me/PTSSry) kanavalla voit kysellä saunaseuraa tai keskustella sauna-aiheisista asioista. PTSS järjestää myös sauna-aiheisia tapahtumia joista ilmoitetaan Telegramin kautta sekä [Facebook](https://www.facebook.com/ptssry/) sivuillamme.
