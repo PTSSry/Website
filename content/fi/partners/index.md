@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Tuotteet"
+title: "Yhteistyö"
 summary: ""
 date: 2020-04-07T22:35:38+03:00
 lastmod: 2020-04-07T22:35:38+03:00
@@ -17,6 +17,6 @@ header:
   image: ""
 ---
 
-{{< figure library="true" src="patch.jpg" title="Haalarimerkki, 2€" lightbox="true" >}}
+[saunafromfinland](https://saunafromfinland.com/)
 
-{{< figure library="true" src="saunacap.jpg" title="Saunahattu, ilmainen jäsenille" lightbox="true" >}}
+[saunalogia](https://saunologia.fi/)
