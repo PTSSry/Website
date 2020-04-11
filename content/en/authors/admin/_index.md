@@ -18,7 +18,7 @@ superuser: true
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Polyteknikkojen Saunaseura
+bio: Polytechnic Sauna club
 
 # interests:
 # - Saunat
@@ -71,3 +71,11 @@ email: ""
 user_groups:
 - Admin
 ---
+
+Are you looking for Otaniemi saunas or a sauna club? Will you become the next sauna master? Join the warm-hearted Polytechnic sauna club. On the [Telegram](https://t.me/PTSSry) you can ask other people who want to go to sauna or discuss sauna-related issues. PTSS also organizes sauna-related events that are announced via Telegram and on our [Facebook](https://www.facebook.com/ptssry/) website.
+
+In connection with sauna use in Otaniemi, PTSS has collected information on Otaniemi [saunas]({{<ref "/sauna/index.md">}}). The pages contain all Otaniemi saunas, sauna locations and information, as well as a calendar of [Teekkarikylä's common sauna shifts](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com).
+
+You can join the club by making a [member application](#contact) on the page directed by the link. By joining as a member, you can participate in the club's events and get a stylish sauna hat!
+
+Information on the club's overalls badge and sauna hat can be found on the [products]({{<ref "/accessories/index.md">}}) page.

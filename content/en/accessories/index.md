@@ -28,6 +28,6 @@ image:
 projects: []
 ---
 
-Patch, 2€
+{{< figure library="true" src="patch.jpg" title="Overall's badge, 2€" lightbox="true" >}}
 
-Sauna cap, free for members
+{{< figure library="true" src="saunacap.jpg" title="Sauna hat, free for members" lightbox="true" >}}

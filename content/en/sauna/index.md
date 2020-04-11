@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Saunas"
+title: "Otaniemi Saunas"
 subtitle: ""
 summary: ""
 authors: [admin]
@@ -28,8 +28,10 @@ image:
 projects: []
 ---
 
-Sauna map
+## Common Saunas
+[Teekkarikylä common sauna shifts](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com) calendar includes all common sauna shifts of AYY and HOAS. Access to saunas usually requires a key, a door code, or both. [Telegram](https://t.me/PTSSry) can be used to ask other people who want to go to sauna or to open the sauna door.
 
-[Teekkarivillage common saunas](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com)
+You can book your own shift to public saunas from [AYY domo](https://domo.ayy.fi/buildings) and [HOAS booking](https://booking.hoas.fi/).
 
-Sauna list
+## All Saunas
+{{<gdocs src="https://drive.google.com/open?id=1S7pRi6Odmq0iDTF97s5FIO3Ztcz0_0WZ-pL3TWw39yA">}}
