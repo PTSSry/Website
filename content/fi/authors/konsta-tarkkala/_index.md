@@ -1,16 +1,16 @@
 ---
 # Display name
-name: "Konsta Tarkkaa"
+name: "Konsta Tarkkala"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- konsta-tarkkaa
+- konsta-tarkkala
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Vice Chairman
+role: Varapuheenjohtaja
 
 # Organizations/Affiliations
 # organizations:
@@ -63,5 +63,5 @@ bio:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Board
+- Hallitus
 ---
