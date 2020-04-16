@@ -7,9 +7,9 @@ date: 2020-04-07T22:35:38+03:00
 lastmod: 2020-04-07T22:35:38+03:00
 
 reading_time: false  # Show estimated reading time?
-share: true  # Show social sharing links?
+share: false  # Show social sharing links?
 profile: false  # Show author profile?
-comments: true  # Show comments?
+comments: false  # Show comments?
 
 # Optional header image (relative to `static/img/` folder).
 header:
