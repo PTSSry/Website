@@ -18,7 +18,7 @@ autolink = true
 email_form = 2
 +++
 
-You can apply for membership by filling in the form below: Fill in the **name** and **e-mail** fields and write **your place of residence** and **whether you are a member of AYY** in the message field.
+You can apply for membership by filling in the form below: Fill in the **name** and **e-mail** fields and write **I am applying for PTSS membership**, **your place of residence** and **whether you are a member of AYY** in the message field.
 
 Only members of Aalto University Student Union (AYY) will have a voting right in the association meetings.
 

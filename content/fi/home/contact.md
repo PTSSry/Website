@@ -18,7 +18,7 @@ autolink = true
 email_form = 2
 +++
 
-Jäsenhakemuksen voi tehdä täyttämällä alla olevan lomakkeen seuraavasti: Täytä **nimi** ja **sähköposti** kentät sekä kirjoita viestikenttään **asuinpaikkakuntasi** ja **oletko AYY:n jäsen**.
+Jäsenhakemuksen voi tehdä täyttämällä alla olevan lomakkeen seuraavasti: Täytä **nimi** ja **sähköposti** kentät sekä kirjoita viestikenttään **haen PTSS:n jäseneksi**, **asuinpaikkakuntasi** ja **oletko AYY:n jäsen**.
 
 Aalto-yliopiston ylioppilaskunnan (AYY) jäsen voidaan hyväksyä varsinaiseksi jäseneksi, muut ulkojäseneksi tai vanhaksi jäseneksi. 
 
