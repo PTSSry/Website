@@ -18,14 +18,7 @@ autolink = true
 email_form = 2
 +++
 
-Jäsenhakemus lähetetään sähköpostilla osoitteeseen ptss-jasenrekisteri@list.ayy.fi. Jäsenhakemuksessa tulee ilmoittaa hakijan nimi, sähköpostiosoite, asuinpaikkakunta sekä onko hakija AYY:n jäsen seuraavasti:
-
-"Haen PTSS:n jäseneksi.
-
-Nimi:
-Sähköposti:
-Asuinpaikkakunta:
-AYY:n jäsen: Kyllä/Ei"
+Jäsenhakemuksen voi tehdä täyttämällä alla olevan lomakkeen seuraavasti: Täytä **nimi** ja **sähköposti** kentät sekä kirjoita viestikenttään **asuinpaikkakuntasi** ja **oletko AYY:n jäsen**.
 
 Aalto-yliopiston ylioppilaskunnan (AYY) jäsen voidaan hyväksyä varsinaiseksi jäseneksi, muut ulkojäseneksi tai vanhaksi jäseneksi. 
 

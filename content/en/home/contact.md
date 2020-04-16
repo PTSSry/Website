@@ -18,14 +18,7 @@ autolink = true
 email_form = 2
 +++
 
-Membership application should be send by email to ptss-jasenrekisteri@list.ayy.fi. In the email inform your name, email address, place of residence and whether you are a member of AYY or not, as below:
-
-"I apply to become a member of PTSS.
-
-Name:
-Email:
-Place of Residence:
-Member of AYY: Yes/No"
+You can apply for membership by filling in the form below: Fill in the **name** and **e-mail** fields and write **your place of residence** and **whether you are a member of AYY** in the message field.
 
 Only members of Aalto University Student Union (AYY) will have a voting right in the association meetings.
 
