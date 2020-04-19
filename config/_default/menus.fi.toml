@@ -34,6 +34,11 @@
   weight = 65
 
 [[main]]
+  name = "Yhteistyö"
+  url = "#partners"
+  weight = 66
+
+[[main]]
   name = "Saunat"
   url = "/sauna/"
   weight = 70
@@ -42,11 +47,6 @@
   name = "Tuotteet"
   url = "/accessories/"
   weight = 80
-
-[[main]]
-  name = "Yhteistyö"
-  url = "/partners/"
-  weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
