@@ -1,0 +1,262 @@
+# Navigation
+
+- id: toggle_navigation
+  translation: Vaihda navigointia
+
+- id: table_of_contents
+  translation: Sisällysluettelo
+
+- id: on_this_page
+  translation: Sisällys
+
+- id: back_to_top
+  translation: Takaisin ylös
+
+# General
+
+- id: related
+  translation: Liittyvä
+
+- id: minute_read
+  translation: Minuuttia lukea
+
+- id: previous
+  translation: Edellinen
+
+- id: next
+  translation: Seuraava
+
+- id: figure
+  translation: "Kuvaaja %d:"
+
+- id: edit_page
+  translation: Muokkaa sivua
+
+# Themes
+
+- id: theme_light
+  translation: Vaalea
+
+- id: theme_dark
+  translation: Tumma
+
+- id: theme_auto
+  translation: Automaattinen
+
+# Buttons
+
+- id: btn_preprint
+  translation: Esipainatus
+
+- id: btn_pdf
+  translation: PDF
+
+- id: btn_cite
+  translation: Viittaa
+
+- id: btn_slides
+  translation: Diat
+
+- id: btn_video
+  translation: Video
+
+- id: btn_code
+  translation: Koodi
+
+- id: btn_dataset
+  translation: Aineisto
+
+- id: btn_project
+  translation: Projekti
+
+- id: btn_poster
+  translation: Juliste
+
+- id: btn_source
+  translation: Lähdeasiakirja
+
+- id: btn_copy
+  translation: Kopio
+
+- id: btn_download
+  translation: Lataa
+
+# About widget
+
+- id: interests
+  translation: Kiinnostukset
+
+- id: education
+  translation: Koulutus
+
+- id: user_profile_latest
+  translation: Uusimmat
+
+# Accomplishments widget
+
+- id: see_certificate
+  translation: Katso todistus
+
+# Experience widget
+
+- id: present
+  translation: Nykyinen
+
+# Pages widget
+
+- id: more_pages
+  translation: Näytä kaikki
+
+- id: more_posts
+  translation: Näytä kaikki postaukset
+
+- id: more_talks
+  translation: Näytä kaikki puheet
+
+- id: more_publications
+  translation: Näytä kaikki julkaisut
+
+# Contact widget
+
+- id: contact_name
+  translation: Nimi
+
+- id: contact_email
+  translation: Sähköposti
+
+- id: contact_message
+  translation: Viesti
+
+- id: contact_send
+  translation: Lähetä
+
+- id: book_appointment
+  translation: Varaa tapaaminen
+
+# Publication/Talk details
+
+- id: abstract
+  translation: Yhteenveto
+
+- id: publication
+  translation: Julkaisu
+
+- id: publication_type
+  translation: Tyyppi
+
+- id: date
+  translation: Päivämäärä
+
+- id: last_updated
+  translation: Viimeksi päivitetty
+
+- id: event
+  translation: Tapahtuma
+
+- id: location
+  translation: Paikka
+
+- id: pub_uncat
+  translation: Luokittelematon
+
+- id: pub_conf
+  translation: Konferenssipaperi
+
+- id: pub_journal
+  translation: Lehti artikkeli
+
+- id: pub_preprint
+  translation: Esipainatus #käsikirjoitus
+
+- id: pub_report
+  translation: Raportti
+
+- id: pub_book
+  translation: Kirja
+
+- id: pub_book_section
+  translation: Kirjaosa
+
+- id: pub_thesis
+  translation: Tutkielma
+
+- id: pub_patent
+  translation: Patentti
+
+# Project details
+
+- id: open_project_site
+  translation: Mene projektisivulle
+
+# Default titles for archive pages
+
+- id: posts
+  translation: Postaukset
+
+- id: publications
+  translation: Julkaisut
+
+- id: talks
+  translation: Puheet
+
+- id: projects
+  translation: Projektit
+
+# Search
+
+- id: search
+  translation: Hae
+
+- id: search_placeholder
+  translation: Hae...
+
+- id: search_results
+  translation: Hakutuloksia löytyi
+
+- id: search_no_results
+  translation: Ei hakutuloksia
+
+# Error 404
+
+- id: page_not_found
+  translation: Sivua ei löydetty
+
+- id: 404_recommendations
+  translation: Ehkä etsit jotain näistä?
+
+# Cookie consent
+
+- id: cookie_message
+  translation: Tämä verkkosivusto käyttää evästeitä varmistaaksesi, että saat parhaan kokemuksen verkkosivustoltamme.
+
+- id: cookie_dismiss
+  translation: Selvä!
+
+- id: cookie_learn
+  translation: Opi lisää
+
+# Join widget
+
+- id: join_name
+  translation: Nimi
+
+- id: join_email
+  translation: Sähköposti
+
+- id: join_message
+  translation: "Miksi haet Polyteknikkojen Saunaseuraan?"
+
+- id: join_send
+  translation: Lähetä
+
+- id: join_place_of_residence
+  translation: "Asuinpaikkakunta"
+
+- id: join_ayy_member
+  translation: "Oletko AYY:n jäsen?"
+
+- id: "yes"
+  translation: "Kyllä"
+
+- id: "no"
+  translation: "En"

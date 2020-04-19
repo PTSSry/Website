@@ -1,0 +1,58 @@
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $data := site.Params }}
+
+<!-- Join widget -->
+<div class="row contact-widget">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+    {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+  </div>
+  <div class="col-12 col-lg-8">
+    {{ with $page.Content }}{{ . }}{{ end }}
+
+    {{ if $page.Params.email_form }}
+
+    {{ $post_action := "" }}
+    {{ if eq $page.Params.email_form 1 }}
+      {{ $post_action = "netlify" }}
+    {{ else }}
+      {{ if not $page.Params.email }}
+        {{ errorf "Please set an email address for the contact form using the `email` parameter in `params.toml`. Otherwise, set `email_form = 0` to disable the contact form." }}
+      {{ end }}
+      {{ $post_action = printf "action=\"https://formspree.io/%s\"" $page.Params.email }}
+    {{end}}
+
+    <div class="mb-3">
+      <form name="join" method="POST" {{ $post_action | safeHTMLAttr }}>
+        <div class="form-group form-inline">
+          <label class="sr-only" for="inputName">{{ i18n "join_name" }}</label>
+          <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="{{ i18n "join_name" | default "Name" }}" required>
+        </div>
+        <div class="form-group form-inline">
+          <label class="sr-only" for="inputEmail">{{ i18n "join_email" }}</label>
+          <input type="email" name="email" class="form-control w-100" id="inputEmail" placeholder="{{ i18n "join_email" | default "Email" }}" required>
+        </div>
+        <div class="form-group form-inline">
+          <label class="sr-only" for="inputResidence">{{ i18n "join_place_of_residence" }}</label>
+          <input type="text" name="residence" class="form-control w-100" id="inputResidence" placeholder="{{ i18n "join_place_of_residence" | default "Place of Residence" }}" required>
+        </div>
+        <div class="form-group form-inline">
+          <label class="sr-only" for="inputAYYMember">{{ i18n "join_ayy_member" }}</label>
+          <select name="AYYMember" class="form-control w-100" id="inputAYYMember" required>
+            <option value="" disabled selected>{{ i18n "join_ayy_member" | default "Are you a member of AYY?" }}</option>
+            <option>{{ i18n "yes" | default "Yes" }}</option>
+            <option>{{ i18n "no" | default "No" }}</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label class="sr-only" for="inputMessage">{{ i18n "join_message" }}</label>
+          <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="{{ i18n "join_message" | default "Message" }}"></textarea>
+        </div>
+        <button type="submit" class="btn btn-outline-primary px-3 py-2">{{ i18n "join_send" | default "Send" }}</button>
+      </form>
+    </div>
+    {{end}}
+
+  </div>
+</div>
