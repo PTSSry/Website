@@ -18,4 +18,4 @@ autolink = true
 email_form = 2
 +++
 
-Polyteknikkojen Saunaseura is happy to share the good news of saunaing and cooperates with other sauna clubs and sauna operators. If you have a cooperation proposal or anything else to say to us, you can send us a message using the form below.
+Polytechnic Sauna Society is happy to share the good news of saunaing. It cooperates with other sauna associations and sauna operators. If you have a cooperation proposal or anything else to say to us, you can send us a message using the form below or directly to the email `ptss-hallitus(a)list.ayy.fi`.

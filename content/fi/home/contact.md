@@ -18,4 +18,4 @@ autolink = true
 email_form = 2
 +++
 
-Polyteknikkojen Saunaseura jakaa mielellään saunomisen ilosanoman ja on yhteistyössä muiden saunaseurojen ja saunatoimijoiden kanssa. Jos sinulla on meille yhteistyöehdotus tai muuta sanottavaa, voit lähettää meille viestiä alla olevalla lomakkeella.
+Polyteknikkojen Saunaseura jakaa mielellään saunomisen ilosanoman ja on yhteistyössä muiden saunaseurojen ja saunatoimijoiden kanssa. Jos sinulla on meille yhteistyöehdotus tai muuta sanottavaa, voit lähettää meille viestiä alla olevalla lomakkeella tai suoraan sähköpostiin `ptss-hallitus(a)list.ayy.fi`.
