@@ -7,6 +7,10 @@ weight = 150  # Order that this section will appear.
 title = "Yhteistyö"
 subtitle = ""
 +++
-[saunafromfinland](https://saunafromfinland.com/)
 
-[saunalogia](https://saunologia.fi/)
+PTSS: kanssa saunovat:
+
+* [Suomen Saunaseura](https://www.sauna.fi/)
+* [Sauna From Finland](https://saunafromfinland.com/)
+* [Saunalogia](https://saunologia.fi/)
+* [Sauna Store](http://www.saunastore.fi/)
