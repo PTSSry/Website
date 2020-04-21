@@ -72,10 +72,14 @@ user_groups:
 - Admin
 ---
 
-Etsikö Otaniemen saunoja tai saunaseuraa? Tuleeko sinusta seuraava saunamaisteri? Liity mukaan lämminhenkiseen Polyteknikkojen saunaseuraan. [Telegram](https://t.me/PTSSry) kanavalla voit kysellä saunaseuraa tai keskustella sauna-aiheisista asioista. PTSS järjestää myös sauna-aiheisia tapahtumia joista ilmoitetaan Telegramin kautta sekä [Facebook](https://www.facebook.com/ptssry/) sivuillamme.
+Kaipaatko saunaseuraa Otaniemessä?
 
-Otaniemessä saunomiseen liittyen PTSS on kerännyt tietoa Otaniemen saunoista [saunat]({{< ref "/sauna/index.md" >}}) sivulle. Sivut sisältävät kaikki Otaniemen saunat, saunojen paikat ja tiedot sekä kalenterin [Teekkarikylän yleisistä saunavuoroista](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com).
+Polyteknikkojen saunaseura ry eli tuttavallisemmin PTSS on opiskelijoiden saunaseura joka toimii Otaniemessä Aalto-yliopiston kampuksella. Kerhon tarkoituksena on tuoda yhteen saunomisesta ja saunakulttuurista kiinnostuneita opiskelijoita sekä ylläpitää ja kehittää Otaniemen kampusalueen saunakulttuuria. Järjestämme yhteisiä saunailtoja, excursioita yleisiin saunoihin ja muita saunomiseen liittyviä tapahtumia.
 
-Seuraan voi liittyä tekemällä [jäsenhakemuksen](#contact) linkin ohjaamalla sivulla. Jäseneksi liittymällä voit osallistua seuran tapahtumiin sekä saat tyylikkään saunahatun!
+Liity mukaan PTSS:n lämminhenkiseen seuraan! [Telegram](https://t.me/PTSSry) kanavalla voit keskustella sauna-aiheisista asioista, kysellä seuraa lauteille tai kuulla tulevista tapahtumista. Seuraa myös [Facebook](https://www.facebook.com/ptssry/) sivuamme ja [Instagram](https://www.instagram.com/ptss_ry/)-kanavaamme!
+
+Seuraan voi liittyä tekemällä [jäsenhakemuksen]({{< ref "#contact" >}}) linkin ohjaamalla sivulla. Jäseneksi liittymällä voit osallistua seuran tapahtumiin sekä saat tyylikkään saunahatun!
 
 Tietoa seuran haalarimerkistä ja saunahatusta löytyy [tuotteet]({{< ref "/accessories/index.md" >}}) sivulla.
+
+PTSS kerää myös tietoa Otaniemen ja sen lähialueen saunoista [saunat]({{< ref "/sauna/index.md" >}}) sivulle. Sivujen on tarkoitus sisältää listaus Otaniemen kaikista saunoista, saunojen paikat ja tiedot sekä kalenterin [Teekkarikylän yleisistä saunavuoroista](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com).

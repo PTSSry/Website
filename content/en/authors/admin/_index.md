@@ -72,10 +72,14 @@ user_groups:
 - Admin
 ---
 
-Are you looking for Otaniemi saunas or a sauna society? Will you become the next sauna master? Join the warm-hearted Polytechnic Sauna Society. On the [Telegram](https://t.me/PTSSry) you can ask other people who want to go to sauna or discuss sauna-related issues. PTSS also organizes sauna-related events that are announced via Telegram and on our [Facebook](https://www.facebook.com/ptssry/) website.
+Do you need a sauna company in Otaniemi?
 
-In connection with sauna use in Otaniemi, PTSS has collected information on Otaniemi [saunas]({{<ref "/sauna/index.md">}}). The pages contain all Otaniemi saunas, sauna locations and information, as well as a calendar of [Teekkarikylä's common sauna shifts](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com).
+The Polytechnic Sauna Society, or more familiarly PTSS, is a student sauna association that operates on the Aalto University campus in Otaniemi. The purpose of the association is to bring together students interested in sauna and sauna culture and to maintain and develop the sauna culture in the Otaniemi campus area. We organize joint sauna nights, excursions to public saunas, and other sauna-related events.
 
-You can join the society by making a [member application](#contact) on the page directed by the link. By joining as a member, you can participate in the society's events and get a stylish sauna hat!
+Join the warm-hearted company of PTSS! On the [Telegram](https://t.me/PTSSry), you can discuss sauna issues, ask questions on the sauna benches, or hear about upcoming events. Also follow our [Facebook](https://www.facebook.com/ptssry/) page and our [Instagram](https://www.instagram.com/ptss_ry/) channel!
 
-Information on the society's overalls badge and sauna hat can be found on the [products]({{<ref "/accessories/index.md">}}) page.
+You can join the association by making a [membership application]({{<ref "#contact">}}) on the link redirected page. By joining as a member, you can participate in the association's events and get a stylish sauna hat!
+
+Information on the accosiation's overalls badge and sauna hat can be found on the [products]({{<ref "/accessories/index.md">}}) page.
+
+PTSS also collects information about saunas in Otaniemi and its vicinity [saunas]({{<ref "/sauna/index.md">}}). The pages are intended to include a list of all saunas in Otaniemi, the locations and information of the saunas, and a calendar of [Teekkarikylä's general sauna shifts](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com).
