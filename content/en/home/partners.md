@@ -12,5 +12,7 @@ On the sauna with PTSS are:
 
 * [Suomen Saunaseura](https://www.sauna.fi/)
 * [Sauna From Finland](https://saunafromfinland.com/)
-* [Saunalogia](https://saunologia.fi/)
+* [Saunologia](https://saunologia.fi/)
 * [Sauna Store](http://www.saunastore.fi/)
+
+Background: [Rantasauna](https://www.ayy.fi/en/rantasauna), Pyry Ekholm

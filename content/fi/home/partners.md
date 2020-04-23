@@ -12,5 +12,7 @@ PTSS: kanssa saunovat:
 
 * [Suomen Saunaseura](https://www.sauna.fi/)
 * [Sauna From Finland](https://saunafromfinland.com/)
-* [Saunalogia](https://saunologia.fi/)
+* [Saunologia](https://saunologia.fi/)
 * [Sauna Store](http://www.saunastore.fi/)
+
+Taustakuva: [Rantasauna](https://www.ayy.fi/fi/rantasauna), Pyry Ekholm
