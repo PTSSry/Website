@@ -78,7 +78,7 @@ The Polytechnic Sauna Society, or more familiarly PTSS, is a student sauna assoc
 
 Join the warm-hearted company of PTSS! On the [Telegram](https://t.me/PTSSry), you can discuss sauna issues, ask questions on the sauna benches, or hear about upcoming events. Also follow our [Facebook](https://www.facebook.com/ptssry/) page and our [Instagram](https://www.instagram.com/ptss_ry/) channel!
 
-You can join the association by making a [membership application]({{<ref "#contact">}}) on the link redirected page. By joining as a member, you can participate in the association's events and get a stylish sauna hat!
+You can join the association by making a [membership application]({{<ref "#join">}}) on the link redirected page. By joining as a member, you can participate in the association's events and get a stylish sauna hat!
 
 Information on the accosiation's overalls badge and sauna hat can be found on the [products]({{<ref "/accessories/index.md">}}) page.
 

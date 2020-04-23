@@ -14,7 +14,7 @@
   weight = 20
 
 [[main]]
-  name = "Membership"
+  name = "Join"
   url = "#join"
   weight = 60
 

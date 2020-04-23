@@ -78,7 +78,7 @@ Polyteknikkojen saunaseura ry eli tuttavallisemmin PTSS on opiskelijoiden saunas
 
 Liity mukaan PTSS:n lämminhenkiseen seuraan! [Telegram](https://t.me/PTSSry) kanavalla voit keskustella sauna-aiheisista asioista, kysellä seuraa lauteille tai kuulla tulevista tapahtumista. Seuraa myös [Facebook](https://www.facebook.com/ptssry/) sivuamme ja [Instagram](https://www.instagram.com/ptss_ry/)-kanavaamme!
 
-Seuraan voi liittyä tekemällä [jäsenhakemuksen]({{< ref "#contact" >}}) linkin ohjaamalla sivulla. Jäseneksi liittymällä voit osallistua seuran tapahtumiin sekä saat tyylikkään saunahatun!
+Seuraan voi liittyä tekemällä [jäsenhakemuksen]({{< ref "#join" >}}) linkin ohjaamalla sivulla. Jäseneksi liittymällä voit osallistua seuran tapahtumiin sekä saat tyylikkään saunahatun!
 
 Tietoa seuran haalarimerkistä ja saunahatusta löytyy [tuotteet]({{< ref "/accessories/index.md" >}}) sivulla.
 

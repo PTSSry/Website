@@ -14,7 +14,7 @@
   weight = 20
 
 [[main]]
-  name = "Jäsenyys"
+  name = "Liity"
   url = "#join"
   weight = 60
 
