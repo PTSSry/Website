@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 150  # Order that this section will appear.
 
 title = "Partners"
-subtitle = "On the sauna with PTSS are:"
+subtitle = ""
 +++
 
 [Suomen Saunaseura](https://www.sauna.fi/) |

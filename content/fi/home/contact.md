@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 135  # Order that this section will appear.
 
 title = "Kontakti"
-subtitle = ""
+subtitle = "Ota meihin yhteyttä"
 
 # Automatically link email and phone?
 autolink = true
