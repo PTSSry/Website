@@ -83,3 +83,5 @@ You can join the association by making a [membership application]({{<ref "#join"
 Information on the accosiation's overalls badge and sauna hat can be found on the [products]({{<ref "/accessories/index.md">}}) page.
 
 PTSS also collects information about saunas in Otaniemi and its vicinity [saunas]({{<ref "/sauna/index.md">}}). The pages are intended to include a list of all saunas in Otaniemi, the locations and information of the saunas, and a calendar of [Teekkarikylä's general sauna shifts](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com).
+
+The background photos is taken by Pyry Ekholm from Otaniemi's [Rantasauna](https://www.ayy.fi/en/rantasauna).

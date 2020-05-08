@@ -6,11 +6,11 @@ weight = 150  # Order that this section will appear.
 
 title = "Partners"
 subtitle = ""
+
+logos = [
+    {image="partners/suomensaunaseura.png", url="https://www.sauna.fi/", alt="Suomen Saunaseura"},
+    {image="partners/saunafromfinland.png", url="https://saunafromfinland.com/", alt="Sauna From Finland"},
+    {image="partners/saunologia.png", url="https://saunologia.fi/", alt="Saunologia"},
+    {image="partners/saunastore.png", url="http://www.saunastore.fi/", alt="Sauna Store"}
+]
 +++
-
-[Suomen Saunaseura](https://www.sauna.fi/) |
-[Sauna From Finland](https://saunafromfinland.com/) |
-[Saunologia](https://saunologia.fi/) |
-[Sauna Store](http://www.saunastore.fi/)
-
-Background: [Rantasauna](https://www.ayy.fi/en/rantasauna), Pyry Ekholm

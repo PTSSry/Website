@@ -8,7 +8,17 @@
         <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
         {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
     </div>
+
+    {{/*  Logo images  */}}
+    {{ range $page.Params.logos }}
+    <a class="logofarm" href="{{ .url | safeURL }}" target="_blank">
+        <img src="/img/{{ .image }}" alt="{{ .alt }}" style="height: 70px; width: auto; margin: 10px;">
+    </a>
+    {{ end }}
+
+    {{/*  
     <div class="col-12 col-lg-8">
         {{ with $page.Content }}{{ . }}{{ end }}
     </div>
+    */}}
 </div>

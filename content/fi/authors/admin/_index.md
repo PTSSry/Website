@@ -83,3 +83,5 @@ Seuraan voi liittyä tekemällä [jäsenhakemuksen]({{< ref "#join" >}}) linkin 
 Tietoa seuran haalarimerkistä ja saunahatusta löytyy [tuotteet]({{< ref "/accessories/index.md" >}}) sivulla.
 
 PTSS kerää myös tietoa Otaniemen ja sen lähialueen saunoista [saunat]({{< ref "/sauna/index.md" >}}) sivulle. Sivujen on tarkoitus sisältää listaus Otaniemen kaikista saunoista, saunojen paikat ja tiedot sekä kalenterin [Teekkarikylän yleisistä saunavuoroista](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com).
+
+Taustakuvan on ottanut Pyry Ekholm Otaniemen [Rantasaunalta](https://www.ayy.fi/fi/rantasauna).
