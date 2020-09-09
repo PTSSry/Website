@@ -12,11 +12,11 @@
     {{/*  Logo images  */}}
     {{ range $page.Params.logos }}
     <a class="logofarm" href="{{ .url | safeURL }}" target="_blank">
-        <img src="/img/{{ .image }}" alt="{{ .alt }}" style="height: 70px; width: auto; margin: 10px;">
+        <img src="/media/{{ .image }}" alt="{{ .alt }}" style="height: 70px; width: auto; margin: 10px;">
     </a>
     {{ end }}
 
-    {{/*  
+    {{/*
     <div class="col-12 col-lg-8">
         {{ with $page.Content }}{{ . }}{{ end }}
     </div>

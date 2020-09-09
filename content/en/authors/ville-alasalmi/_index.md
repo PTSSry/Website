@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Ville Alasalmi"
+title: "Ville Alasalmi"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -14,11 +14,11 @@ role: Treasurer
 
 # Organizations/Affiliations
 # organizations:
-# - name: 
+# - name:
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # List each interest with a dash
 # interests:

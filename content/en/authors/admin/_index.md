@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Polytechnic Sauna Society
+title: Polytechnic Sauna Society
 
 # Username (this should match the folder name)
 authors:
@@ -22,7 +22,7 @@ bio: Polytechnic Sauna Society
 
 # interests:
 # - Saunat
-# - Kiukaat 
+# - Kiukaat
 # - Löylyt
 
 # education:

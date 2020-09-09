@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Konsta Tarkkala"
+title: "Konsta Tarkkala"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -14,11 +14,11 @@ role: Vice Chairman
 
 # Organizations/Affiliations
 # organizations:
-# - name: 
+# - name:
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # List each interest with a dash
 # interests:
