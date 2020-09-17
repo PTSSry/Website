@@ -17,6 +17,6 @@ header:
   image: ""
 ---
 
-{{< figure library="true" src="accessories/patch.jpg" title="Overall's badge, 2€" lightbox="true" >}}
+{{< figure library="true" src="accessories/patch.jpg" title="Overall's badge, 3€" lightbox="true" >}}
 
 {{< figure library="true" src="accessories/saunahat.jpg" title="Sauna hat, free for members" lightbox="true" >}}
