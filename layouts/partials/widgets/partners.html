@@ -10,11 +10,15 @@
     </div>
 
     {{/*  Logo images  */}}
-    {{ range $page.Params.logos }}
-    <a class="logofarm" href="{{ .url | safeURL }}" target="_blank">
-        <img src="/media/{{ .image }}" alt="{{ .alt }}" style="height: 70px; width: auto; margin: 10px;">
-    </a>
-    {{ end }}
+    <div class="col-12 col-lg-8">
+        <div class="row text-center">
+            {{ range $page.Params.logos }}
+            <a class="logofarm" href="{{ .url | safeURL }}" target="_blank">
+                <img src="/media/{{ .image }}" alt="{{ .alt }}" style="height: 70px; width: auto; margin: 10px; filter: grayscale(100%);">
+            </a>
+            {{ end }}
+        </div>
+    </div>
 
     {{/*
     <div class="col-12 col-lg-8">
