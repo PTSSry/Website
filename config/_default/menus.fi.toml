@@ -9,9 +9,19 @@
   weight = 10
 
 [[main]]
-  name = "Postaukset"
-  url = "#posts"
+  name = "Saunat"
+  url = "#sauna"
+  weight = 15
+
+[[main]]
+  name = "Tuotteet"
+  url = "#accessories"
   weight = 20
+
+# [[main]]
+#   name = "Postaukset"
+#   url = "#posts"
+#   weight = 20
 
 [[main]]
   name = "Liity"
@@ -19,29 +29,24 @@
   weight = 60
 
 [[main]]
-  name = "Kontakti"
-  url = "#contact"
-  weight = 62
-
-[[main]]
   name = "Henkilöt"
   url = "#people"
   weight = 65
 
 [[main]]
-  name = "Yhteistyö"
-  url = "#partners"
+  name = "Yhteystiedot"
+  url = "#contact"
   weight = 66
 
 [[main]]
-  name = "Saunat"
-  url = "/sauna/"
-  weight = 70
+  name = "Yhteistyö"
+  url = "#partners"
+  weight = 67
 
-[[main]]
-  name = "Tuotteet"
-  url = "/accessories/"
-  weight = 80
+# [[main]]
+#   name = "Saunat"
+#   url = "/sauna/"
+#   weight = 70
 
 [[main]]
   name = "Historia"

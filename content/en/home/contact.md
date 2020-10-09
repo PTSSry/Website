@@ -3,7 +3,7 @@
 widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 135  # Order that this section will appear.
+weight = 145  # Order that this section will appear.
 
 title = "Contact"
 subtitle = "Contact us"

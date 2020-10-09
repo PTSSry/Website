@@ -51,9 +51,9 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/ptss_ry/
-  - icon: calendar-alt
-    icon_pack: fas
-    link: https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com
+#  - icon: calendar-alt
+#    icon_pack: fas
+#    link: https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com
 # - icon: envelope
 #   icon_pack: fas
 #   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
@@ -80,8 +80,6 @@ Liity mukaan PTSS:n lämminhenkiseen seuraan! [Telegram](https://t.me/PTSSry) ka
 
 Seuraan voi liittyä tekemällä [jäsenhakemuksen]({{< ref "#join" >}}) linkin ohjaamalla sivulla. Jäseneksi liittymällä voit osallistua seuran tapahtumiin sekä saat tyylikkään saunahatun!
 
-Tietoa seuran haalarimerkistä ja saunahatusta löytyy [tuotteet]({{< ref "/accessories/index.md" >}}) sivulla.
-
-PTSS kerää myös tietoa Otaniemen ja sen lähialueen saunoista [saunat]({{< ref "/sauna/index.md" >}}) sivulle. Sivujen on tarkoitus sisältää listaus Otaniemen kaikista saunoista, saunojen paikat ja tiedot sekä kalenterin [Teekkarikylän yleisistä saunavuoroista](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com).
+Tietoa seuran haalarimerkistä ja saunahatusta löytyy [tuotteet]({{< ref "#accessories" >}}) sivulla.
 
 Taustakuvan on ottanut Pyry Ekholm Otaniemen [Rantasaunalta](https://www.ayy.fi/fi/rantasauna).

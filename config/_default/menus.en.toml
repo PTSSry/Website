@@ -9,19 +9,25 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Saunas"
+  url = "#sauna"
+  weight = 15
+
+[[main]]
+  name = "Accessories"
+  url = "#accessories"
   weight = 20
+
+# [[main]]
+#   name = "Posts"
+#   url = "#posts"
+#   weight = 20
 
 [[main]]
   name = "Join"
   url = "#join"
   weight = 60
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 62
 
 [[main]]
   name = "People"
@@ -29,19 +35,19 @@
   weight = 65
 
 [[main]]
-  name = "Partners"
-  url = "#partners"
+  name = "Contact"
+  url = "#contact"
   weight = 66
 
 [[main]]
-  name = "Saunas"
-  url = "/sauna/"
-  weight = 70
+  name = "Partners"
+  url = "#partners"
+  weight = 67
 
-[[main]]
-  name = "Accessories"
-  url = "/accessories/"
-  weight = 80
+# [[main]]
+#   name = "Saunas"
+#   url = "/sauna/"
+#   weight = 70
 
 [[main]]
   name = "History"
