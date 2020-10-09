@@ -9,14 +9,9 @@
   weight = 10
 
 [[main]]
-  name = "Saunas"
-  url = "#sauna"
+  name = "Info"
+  url = "#info"
   weight = 15
-
-[[main]]
-  name = "Accessories"
-  url = "#accessories"
-  weight = 20
 
 # [[main]]
 #   name = "Posts"
@@ -44,10 +39,10 @@
   url = "#partners"
   weight = 67
 
-# [[main]]
-#   name = "Saunas"
-#   url = "/sauna/"
-#   weight = 70
+[[main]]
+  name = "Saunas"
+  url = "/sauna/"
+  weight = 70
 
 [[main]]
   name = "History"

@@ -80,6 +80,4 @@ Join the warm-hearted company of PTSS! On the [Telegram](https://t.me/PTSSry), y
 
 You can join the association by making a [membership application]({{<ref "#join">}}) on the link redirected page. By joining as a member, you can participate in the association's events and get a stylish sauna hat!
 
-Information on the accosiation's overalls badge and sauna hat can be found on the [accessories]({{<ref "#accessories">}}) page.
-
 The background photos is taken by Pyry Ekholm from Otaniemi's [Rantasauna](https://www.ayy.fi/en/rantasauna).

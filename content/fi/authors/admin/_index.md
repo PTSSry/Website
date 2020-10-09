@@ -80,6 +80,4 @@ Liity mukaan PTSS:n lämminhenkiseen seuraan! [Telegram](https://t.me/PTSSry) ka
 
 Seuraan voi liittyä tekemällä [jäsenhakemuksen]({{< ref "#join" >}}) linkin ohjaamalla sivulla. Jäseneksi liittymällä voit osallistua seuran tapahtumiin sekä saat tyylikkään saunahatun!
 
-Tietoa seuran haalarimerkistä ja saunahatusta löytyy [tuotteet]({{< ref "#accessories" >}}) sivulla.
-
 Taustakuvan on ottanut Pyry Ekholm Otaniemen [Rantasaunalta](https://www.ayy.fi/fi/rantasauna).

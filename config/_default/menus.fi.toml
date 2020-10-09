@@ -9,14 +9,9 @@
   weight = 10
 
 [[main]]
-  name = "Saunat"
-  url = "#sauna"
+  name = "Tietoa"
+  url = "#info"
   weight = 15
-
-[[main]]
-  name = "Tuotteet"
-  url = "#accessories"
-  weight = 20
 
 # [[main]]
 #   name = "Postaukset"
@@ -43,10 +38,10 @@
   url = "#partners"
   weight = 67
 
-# [[main]]
-#   name = "Saunat"
-#   url = "/sauna/"
-#   weight = 70
+[[main]]
+  name = "Saunat"
+  url = "/sauna/"
+  weight = 70
 
 [[main]]
   name = "Historia"
