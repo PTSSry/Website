@@ -6,16 +6,29 @@ summary: ""
 date: 2020-04-07T22:35:38+03:00
 lastmod: 2020-10-09T11:17:00+03:00
 
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
+# reading_time: false  # Show estimated reading time?
+# share: false  # Show social sharing links?
+# profile: false  # Show author profile?
+# comments: false  # Show comments?
+
+type: book
 
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
   image: ""
 ---
+
+Olemme keränneet tälle sivulle tietoa Otaniemen saunoista. Sivun pyrkimys on helpottaa Otaniemeläisten tietoisuutta hyödyntää eri saunomismahdollisuuksia.
+
+Tarkoituksenamme on kerätä seuraavia perustietoja yleisistä saunoista:
+
+- Ohjeet kuinka saunaan pääsee ja tarvitseeko avaimen tai ovikoodin?
+- Saunan koko. Kuinka monta ihmistä mahtuu lauteille?
+- Kiukaan tyyppi ja laatu?
+- Suihku- ja pukutilojen koko?
+- Onko jäähdyttely mahdollisuutta?
+- Yleinen arvio, valokuva ja muita kommentteja saunasta.
 
 ## Yleiset Saunat
 ### AYY
@@ -37,7 +50,9 @@ OK 20 | Otakaari 20 (cellar)
 Otaranta 8 A | Otaranta 8 A
 Miestentie 2 | Miestentie 2
 
-### Hoas
+AYY:n yleisiin saunoihin voi mennä [yleisillä vuoroilla](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com) tai varata oman vuoron [AYY Domosta](https://domo.ayy.fi/buildings).
+
+### HOAS
 Nimi | Osoite
 -----|-------
 SK 5 B | Servinkuja 5 B
@@ -48,6 +63,8 @@ JMT 10 G | Jämeräntaival 10 G
 JMT 11 E | Jämeräntaival 11 E
 JMT 11 M | Jämeräntaival 11 M
 SMT 3 | Servin maijan tie 3 (cellar)
+
+HOAS:in saunoihin voi mennä [yleisillä saunavuoroilla](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com) tai varata oman vuoron [HOAS Bookingista](https://booking.hoas.fi/).
 
 ## Yksityiset Saunat
 ### AYY
@@ -61,6 +78,8 @@ Nimi | Osoite
 [Ossinsauna](https://www.ayy.fi/fi/ossinsauna) | Otakaari 18 C
 [OK20 juhla- ja saunatila](https://www.ayy.fi/fi/ok20-juhla-ja-saunatila) | Otakaari 20
 
+AYY:n yksityisiä saunatiloja voi varata [AYY Tilasta](https://tila.ayy.fi/).
+
 ### Muut
 Nimi | Osoite | Omistaja
 -----|--------|---------
@@ -68,3 +87,5 @@ PI-bastun | Otakaari 22 | TF
 Humpsbadet | Otakaari 22 | TF
 [TAK autosauna](https://tak.ayy.fi/tak/index.php?page=autosauna) |  | TAK
 [Gondola sauna](https://www.skipoli.fi/en/member-benefits/suomi-gondolisauna/) |  | Skipoli
+
+Muiden yksityisten saunojen varausta tulee kysyä niiden omistajilta.

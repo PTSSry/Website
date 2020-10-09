@@ -15,4 +15,4 @@ subtitle = "Otaniemen saunat"
 
 Teekkarikylän yleiset saunavuorot kalenteri sisätää kaikki AYY:n ja HOAS:in yleiset saunavuorot. Saunoihin pääsy vaatii yleensä avaimen, ovikoodin tai molemmat. [Telegram](https://t.me/PTSSry) kanavalta voi kysellä kanssasaunojia tai saunan oven avausta. Omia vuoroja yleisiin saunoihin voi varata [AYY domosta](https://domo.ayy.fi/buildings) ja [HOAS bookingista](https://booking.hoas.fi/).
 
-PTSS kerää myös tietoa Otaniemen ja sen lähialueen saunoista [saunat]({{< ref "/sauna/index.md" >}}) sivulle. Sivujen on tarkoitus sisältää listaus Otaniemen kaikista saunoista, saunojen paikat ja tiedot.
+PTSS kerää myös tietoa Otaniemen ja sen lähialueen saunoista [saunat]({{< ref "/sauna/_index.md" >}}) sivulle. Sivujen on tarkoitus sisältää listaus Otaniemen kaikista saunoista, saunojen paikat ja tiedot.
