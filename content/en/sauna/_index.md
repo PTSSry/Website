@@ -32,7 +32,7 @@ We have collected information about Otaniemi saunas on this page. The aim of the
 
 Unknown quantities are left blank.
 
-## Common Saunas
+## Saunas in Residential Buildings
 ### AYY
 Name | Address |🔓|♨|ℕ|❄|
 -----|---------|-|-|-|-|-
@@ -52,7 +52,7 @@ OK 20 | Otakaari 20 {{< icon name="dungeon" pack="fas" >}} | 🔑 | ⚡ | 5 | �
 Otaranta 8 A | Otaranta 8 A | 🔑 | ⚡ | 8 | ✓ |
 Miestentie 2 | Miestentie 2 | 🔑 | ⚡ | | |
 
-You can go to AYY's common saunas on [common sauna shifts](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com) or book your own shift from [AYY Domo](https://domo.ayy.fi/buildings).
+You can go to AYY's residential building saunas on [common sauna shifts](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com). Tenants of the buildings can book their own shifts from [AYY Domo](https://domo.ayy.fi/buildings).
 
 ### HOAS
 Name | Address |🔓|♨|ℕ|❄|
@@ -66,9 +66,9 @@ JMT 10 G | Jämeräntaival 10 G | 🔑 | ⚡ | 4 | ✓ |
 JMT 11 E | Jämeräntaival 11 E | 🔑 | ⚡ | 9 | ✓ |
 JMT 11 M | Jämeräntaival 11 M | 🔑 | ⚡ | 9 | ✓ |
 
-You can go to HOAS common saunas on [common sauna shifts](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com) or book your own shift from [HOAS Booking](https://booking.hoas.fi/).
+You can go to HOAS' residential building saunas on [common sauna shifts](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com). Tenants of the buildings can book their own shifts from [HOAS Booking](https://booking.hoas.fi/).
 
-## Private Saunas
+## Private and Rentable Saunas
 ### AYY
 Name | Address |♨|ℕ|
 -----|---------|-|-|-
@@ -80,7 +80,7 @@ Name | Address |♨|ℕ|
 [Ossinsauna](https://www.ayy.fi/en/ossinsauna) | Otakaari 18 C | ⚡ | 8
 [OK20 ground floor](https://www.ayy.fi/en/ok20) {{< icon name="dungeon" pack="fas" >}} | Otakaari 20 | ⚡ | 10
 
-AYY's private sauna facilities can be booked from [AYY Tila](https://tila.ayy.fi/).
+AYY's rentable sauna facilities can be reserved from [AYY Tila](https://tila.ayy.fi/).
 
 ### Other
 Name | Address | Owner |♨|ℕ|

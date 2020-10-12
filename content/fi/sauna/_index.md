@@ -32,7 +32,7 @@ Olemme keränneet tälle sivulle tietoa Otaniemen saunoista. Sivun pyrkimys on h
 
 Tuntemattomat määreet on jätetty tyhjäksi.
 
-## Yleiset Saunat
+## Asuintalojen Saunat
 ### AYY
 Nimi | Osoite |🔓|♨|ℕ|❄|
 -----|--------|-|-|-|-|-
@@ -52,7 +52,7 @@ OK 20 | Otakaari 20 {{< icon name="dungeon" pack="fas" >}} | 🔑 | ⚡ | 5 | �
 Otaranta 8 A | Otaranta 8 A | 🔑 | ⚡ | 8 | ✓ |
 Miestentie 2 | Miestentie 2 | 🔑 | ⚡ | | |
 
-AYY:n yleisiin saunoihin voi mennä [yleisillä vuoroilla](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com) tai varata oman vuoron [AYY Domosta](https://domo.ayy.fi/buildings).
+AYY:n asuintalojen saunoihin voi mennä [yleisillä vuoroilla](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com). Talojen asukkaat voivat varata omia vuoroja [AYY Domosta](https://domo.ayy.fi/buildings).
 
 ### HOAS
 Nimi | Osoite |🔓|♨|ℕ|❄|
@@ -66,9 +66,9 @@ JMT 10 G | Jämeräntaival 10 G | 🔑 | ⚡ | 4 | ✓ |
 JMT 11 E | Jämeräntaival 11 E | 🔑 | ⚡ | 9 | ✓ |
 JMT 11 M | Jämeräntaival 11 M | 🔑 | ⚡ | 9 | ✓ |
 
-HOAS:in saunoihin voi mennä [yleisillä saunavuoroilla](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com) tai varata oman vuoron [HOAS Bookingista](https://booking.hoas.fi/).
+HOAS:in asuintalojen saunoihin voi mennä [yleisillä saunavuoroilla](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com). Talojen asukkaat voivat varata omia vuoroja [HOAS Bookingista](https://booking.hoas.fi/).
 
-## Yksityiset Saunat
+## Yksityiset ja Vuokrattavat Saunat
 ### AYY
 Nimi | Osoite |♨|ℕ|
 -----|--------|-|-|-
@@ -80,7 +80,7 @@ Nimi | Osoite |♨|ℕ|
 [Ossinsauna](https://www.ayy.fi/fi/ossinsauna) | Otakaari 18 C | ⚡ | 8
 [OK20 juhla- ja saunatila](https://www.ayy.fi/fi/ok20-juhla-ja-saunatila) {{< icon name="dungeon" pack="fas" >}} | Otakaari 20 | ⚡ | 10
 
-AYY:n yksityisiä saunatiloja voi varata [AYY Tilasta](https://tila.ayy.fi/).
+AYY:n vuokrattavia saunatiloja voi vuokrata [AYY Tilasta](https://tila.ayy.fi/).
 
 ### Muut
 Nimi | Osoite | Omistaja |♨|ℕ|
@@ -90,4 +90,4 @@ Humpsbadet | Otakaari 22 | [TF](https://www.teknologforeningen.fi/?lang=en) | �
 TAK autosauna |  | [TAK](https://tak.ayy.fi/tak/index.php?page=autosauna) | 🔥 | 8
 Gondola sauna |  | [Skipoli](https://www.skipoli.fi/en/member-benefits/suomi-gondolisauna/) | 🔥 | 6
 
-Muiden yksityisten saunojen varausta tulee kysyä niiden omistajilta.
+Muiden yksityisten saunojen vuokraamisesta tulee kysyä niiden omistajilta.
