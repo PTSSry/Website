@@ -68,7 +68,7 @@ JMT 11 M | Jämeräntaival 11 M | 🔑 | ⚡ | 9 | ✓ |
 
 HOAS:in asuintalojen saunoihin voi mennä [yleisillä saunavuoroilla](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com). Talojen asukkaat voivat varata omia vuoroja [HOAS Bookingista](https://booking.hoas.fi/).
 
-## Yksityiset ja Vuokrattavat Saunat
+## Yksityiset ja Vuokra-saunat
 ### AYY
 Nimi | Osoite |♨|ℕ|
 -----|--------|-|-|-
@@ -80,14 +80,14 @@ Nimi | Osoite |♨|ℕ|
 [Ossinsauna](https://www.ayy.fi/fi/ossinsauna) | Otakaari 18 C | ⚡ | 8
 [OK20 juhla- ja saunatila](https://www.ayy.fi/fi/ok20-juhla-ja-saunatila) {{< icon name="dungeon" pack="fas" >}} | Otakaari 20 | ⚡ | 10
 
-AYY:n vuokrattavia saunatiloja voi vuokrata [AYY Tilasta](https://tila.ayy.fi/).
+AYY:n vuokrattavia saunatiloja voi varata [AYY Tilasta](https://tila.ayy.fi/).
 
 ### Muut
 Nimi | Osoite | Omistaja |♨|ℕ|
 -----|--------|----------|-|-|-
 PI-bastun | Otakaari 22 | [TF](https://www.teknologforeningen.fi/?lang=en) | ⚡ |
 Humpsbadet | Otakaari 22 | [TF](https://www.teknologforeningen.fi/?lang=en) | ⚡ |
-TAK autosauna |  | [TAK](https://tak.ayy.fi/tak/index.php?page=autosauna) | 🔥 | 8
-Gondola sauna |  | [Skipoli](https://www.skipoli.fi/en/member-benefits/suomi-gondolisauna/) | 🔥 | 6
+TAK autosauna | - | [TAK](https://tak.ayy.fi/tak/index.php?page=autosauna) | 🔥 | 8
+Gondola sauna | - | [Skipoli](https://www.skipoli.fi/en/member-benefits/suomi-gondolisauna/) | 🔥 | 6
 
 Muiden yksityisten saunojen vuokraamisesta tulee kysyä niiden omistajilta.

@@ -68,7 +68,7 @@ JMT 11 M | Jämeräntaival 11 M | 🔑 | ⚡ | 9 | ✓ |
 
 You can go to HOAS' residential building saunas on [common sauna shifts](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com). Tenants of the buildings can book their own shifts from [HOAS Booking](https://booking.hoas.fi/).
 
-## Private and Rentable Saunas
+## Private and Rental Saunas
 ### AYY
 Name | Address |♨|ℕ|
 -----|---------|-|-|-
@@ -87,7 +87,7 @@ Name | Address | Owner |♨|ℕ|
 -----|---------|-------|-|-|-
 PI-bastun | Otakaari 22 | [TF](https://www.teknologforeningen.fi/?lang=en) | ⚡ |
 Humpsbadet | Otakaari 22 | [TF](https://www.teknologforeningen.fi/?lang=en) | ⚡ |
-TAK autosauna |  | [TAK](https://tak.ayy.fi/tak/index.php?page=autosauna) | 🔥 | 8
-Gondola sauna |  | [Skipoli](https://www.skipoli.fi/en/member-benefits/suomi-gondolisauna/) | 🔥 | 6
+TAK autosauna | - | [TAK](https://tak.ayy.fi/tak/index.php?page=autosauna) | 🔥 | 8
+Gondola sauna | - | [Skipoli](https://www.skipoli.fi/en/member-benefits/suomi-gondolisauna/) | 🔥 | 6
 
 Reservations for other private saunas should be requested from their owners.
