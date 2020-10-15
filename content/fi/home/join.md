@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "Liity"
-subtitle = "PTSS:n jäseneksi liittyminen"
+subtitle = "Liity PTSS:n jäseneksi"
 
 # Email form provider
 #   0: Disable email form
@@ -18,7 +18,7 @@ email = "ptss-jasenrekisteri@list.ayy.fi"
 
 Jäsenhakemuksen voi tehdä täyttämällä alla olevan lomakkeen.
 
-Aalto-yliopiston ylioppilaskunnan (AYY) jäsen voidaan hyväksyä varsinaiseksi jäseneksi, muut ulkojäseneksi tai vanhaksi jäseneksi. 
+Aalto-yliopiston ylioppilaskunnan (AYY) jäsen voidaan hyväksyä varsinaiseksi jäseneksi, muut ulkojäseneksi tai vanhaksi jäseneksi.
 
 Uudet jäsenet hyväksytään hallituksen kokouksessa. Sitä ennen jäseneksi haluavan tulee esittäytyä hallitukselle tai hallituslaiselle PTSS:n tapahtumassa tai muussa saunailtamassa.
 
