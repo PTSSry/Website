@@ -1,11 +1,11 @@
 ---
 title: "OK 18 C"
 linktitle: "OK 18 C"
-summary: "Otakaari 18 C"
+summary: "Otakaari 18 C sauna"
 date: 2020-10-16T13:03:30+03:00
 lastmod: 2020-10-16T13:03:30+03:00
 type: book
-weight: 1
+weight: 100
 draft: false
 ---
 

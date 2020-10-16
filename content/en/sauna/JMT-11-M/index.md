@@ -5,7 +5,7 @@ summary: "Jämeräntaival 11 M sauna"
 date: 2020-10-16T07:16:36+03:00
 lastmod: 2020-10-16T07:16:36+03:00
 type: book
-weight: 1
+weight: 80
 draft: false
 ---
 

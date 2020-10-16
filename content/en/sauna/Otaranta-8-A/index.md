@@ -5,7 +5,7 @@ summary: "Otaranta 8 A sauna"
 date: 2020-10-16T13:04:10+03:00
 lastmod: 2020-10-16T13:04:10+03:00
 type: book
-weight: 1
+weight: 120
 draft: false
 ---
 

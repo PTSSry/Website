@@ -5,7 +5,7 @@ summary: "Jämeräntaival 3 A sauna"
 date: 2020-10-16T12:59:52+03:00
 lastmod: 2020-10-16T12:59:52+03:00
 type: book
-weight: 1
+weight: 10
 draft: false
 ---
 

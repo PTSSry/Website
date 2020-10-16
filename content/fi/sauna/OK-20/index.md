@@ -1,11 +1,11 @@
 ---
 title: "OK 20"
 linktitle: "OK 20"
-summary: "Otakaari 20"
+summary: "Otakaari 20 sauna"
 date: 2020-10-16T13:03:51+03:00
 lastmod: 2020-10-16T13:03:51+03:00
 type: book
-weight: 1
+weight: 110
 draft: false
 ---
 

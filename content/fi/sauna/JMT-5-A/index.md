@@ -1,11 +1,11 @@
 ---
 title: "JMT 5 A"
 linktitle: "JMT 5 A"
-summary: "Jämeräntaival 5 A"
+summary: "Jämeräntaival 5 A sauna"
 date: 2020-10-16T13:02:08+03:00
 lastmod: 2020-10-16T13:02:08+03:00
 type: book
-weight: 1
+weight: 20
 draft: false
 ---
 

@@ -5,7 +5,7 @@ summary: "Jämeräntaival 10 E sauna"
 date: 2020-10-16T13:04:27+03:00
 lastmod: 2020-10-16T13:04:27+03:00
 type: book
-weight: 1
+weight: 50
 draft: false
 ---
 
