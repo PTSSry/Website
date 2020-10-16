@@ -1,7 +1,7 @@
 ---
 title: "JMT 9"
 linktitle: "JMT 9"
-summary: ""
+summary: "Jämeräntaival 9 sauna"
 date: 2020-10-16T07:26:27+03:00
 lastmod: 2020-10-16T07:26:27+03:00
 type: book

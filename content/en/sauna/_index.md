@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Otaniemi Saunas"
-summary: ""
+summary: "Information on saunas in Otaniemi residential buildings, as well as private and rental saunas."
 date: 2020-04-07T22:35:38+03:00
 lastmod: 2020-10-09T11:17:04+03:00
 

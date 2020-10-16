@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Otaniemen Saunat"
-summary: ""
+summary: "Tietoa Otaniemen asuintalojen saunoista, sekä yksityisistä ja vuokra-saunoista."
 date: 2020-04-07T22:35:38+03:00
 lastmod: 2020-10-09T11:17:00+03:00
 
