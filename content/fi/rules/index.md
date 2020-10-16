@@ -1,7 +1,7 @@
 ---
 title: Polyteknikkojen Saunaseura ry:n säännöt
 subtitle:
-summary:
+summary: "Polyteknikkojen Saunaseura ry:n säännöt."
 date: "2020-05-07T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?

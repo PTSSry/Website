@@ -1,7 +1,7 @@
 ---
 title: History
 subtitle:
-summary: 
+summary: "History of the Polytechnic Sauna Association."
 date: "2020-05-07T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
