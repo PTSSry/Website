@@ -57,7 +57,7 @@ You can go to AYY's residential building saunas on [common sauna shifts](https:/
 ### HOAS
 Name | Address |🔓|♨|ℕ|❄|
 -----|---------|-|-|-|-|-
-SK 5 B | Servinkuja 5 B | 🔑 | ⚡ |  |  |
+SK 5 B | Servinkuja 5 B | 🔑 | ⚡ |  | ✓ |
 SK 6 | Servinkuja 6 {{< icon name="dungeon" pack="fas" >}} | 🔑 | ⚡ | 8 | ✓ |
 SMT 3 | Servin maijan tie 3 | 🔑 | ⚡ |  | ✓ |
 JMT 9 | Jämeräntaival 9 {{< icon name="dungeon" pack="fas" >}} | 🔑 | ⚡ | 8 | 👣 |
