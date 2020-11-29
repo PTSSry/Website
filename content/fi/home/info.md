@@ -9,11 +9,15 @@ title = "Tietoa Otaniemen Saunoista"
 subtitle = ""
 +++
 
-{{% alert note %}}
+{{% alert info %}}
 {{< icon name="calendar-alt" pack="fas" >}} Voit lisätä [**Otaniemen asuintalojen saunavuorot**](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com) kalenteriisi linkistä.
 {{% /alert %}}
 
-PTSS kerää tietoa Otaniemen ja sen lähialueen saunoista. Esimerkiksi, Otaniemen asuintalojen saunavuorot kalenterista löytyy kaikki AYY:n ja HOAS:in yleiset saunavuorot. Saunoihin pääsy vaatii yleensä avaimen tai ovikoodin. [Telegram](https://t.me/PTSSry) kanavalta voi kysellä kanssasaunojia tai saunan oven avausta. Tarkempaa tietoa eri saunoista löytyy [Saunat]({{< ref "/sauna/_index.md" >}}) sivulta.
+PTSS kerää tietoa Otaniemen ja sen lähialueen saunoista. Esimerkiksi, Otaniemen asuintalojen saunavuorot kalenterista löytyy kaikki AYY:n ja HOAS:in yleiset saunavuorot. Saunoihin pääsy vaatii yleensä avaimen tai ovikoodin. [Telegram](https://t.me/PTSSry) kanavalta voi kysellä kanssasaunojia tai saunan oven avausta.
+
+{{% alert info %}}
+Tarkempaa tietoa eri saunoista löytyy [**Saunat**]({{< ref "/sauna/_index.md" >}}) sivulta.
+{{% /alert %}}
 
 <div class="col-12 col-lg-8">
 <div class="row text-center">
