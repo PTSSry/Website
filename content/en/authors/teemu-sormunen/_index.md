@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Kristofer Mäkinen"
+title: "Teemu Sormunen"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- kristofer-makinen
+- teemu-sormunen
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: "Hallituksen Jäsen"
+role: "Board Member"
 
 # Organizations/Affiliations
 # organizations:
@@ -63,7 +63,7 @@ bio:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Hallitus
+- Board
 
-weight: 1
+weight: 6
 ---

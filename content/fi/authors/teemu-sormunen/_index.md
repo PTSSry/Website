@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Kristofer Mäkinen"
+title: "Teemu Sormunen"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- kristofer-makinen
+- teemu-sormunen
 
 # Is this the primary user of the site?
 superuser: false
@@ -65,5 +65,5 @@ bio:
 user_groups:
 - Hallitus
 
-weight: 1
+weight: 6
 ---

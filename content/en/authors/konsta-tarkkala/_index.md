@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Vice Chairman
+role: Secretary
 
 # Organizations/Affiliations
 # organizations:

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Varapuheenjohtaja
+role: Sihteeri
 
 # Organizations/Affiliations
 # organizations:

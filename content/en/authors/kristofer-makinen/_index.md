@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Chairman
+role: "Board Member"
 
 # Organizations/Affiliations
 # organizations:
