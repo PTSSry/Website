@@ -7,15 +7,6 @@ weight = 145  # Order that this section will appear.
 
 title = "Yhteystiedot"
 subtitle = "Ota meihin yhteyttä"
-
-# Automatically link email and phone?
-autolink = true
-
-# Email form provider
-#   0: Disable email form
-#   1: Netlify (requires that the site is hosted by Netlify)
-#   2: formspree.io
-email_form = 2
 +++
 
-Polyteknikkojen Saunaseura jakaa mielellään saunomisen ilosanoman ja on yhteistyössä muiden saunaseurojen ja saunatoimijoiden kanssa. Jos sinulla on meille yhteistyöehdotus tai muuta sanottavaa, voit lähettää meille viestiä alla olevalla lomakkeella tai suoraan sähköpostiin `ptss-hallitus(a)list.ayy.fi`.
+Polyteknikkojen Saunaseura jakaa mielellään saunomisen ilosanoman ja on yhteistyössä muiden saunaseurojen ja saunatoimijoiden kanssa. Jos sinulla on meille yhteistyöehdotus tai muuta sanottavaa, voit lähettää meille viestiä alla olevaan sähköpostiin.

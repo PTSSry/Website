@@ -7,15 +7,6 @@ weight = 145  # Order that this section will appear.
 
 title = "Contact"
 subtitle = "Contact us"
-
-# Automatically link email and phone?
-autolink = true
-
-# Email form provider
-#   0: Disable email form
-#   1: Netlify (requires that the site is hosted by Netlify)
-#   2: formspree.io
-email_form = 2
 +++
 
-Polytechnic Sauna Society is happy to share the good news of saunaing. It cooperates with other sauna associations and sauna operators. If you have a cooperation proposal or anything else to say to us, you can send us a message using the form below or directly to the email `ptss-hallitus(a)list.ayy.fi`.
+Polytechnic Sauna Society is happy to share the good news of saunaing. It cooperates with other sauna associations and sauna operators. If you have a cooperation proposal or anything else to say to us, you can send us a message to the email adress below.
