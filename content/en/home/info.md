@@ -9,15 +9,15 @@ title = "Info about Otaniemi Saunas"
 subtitle = ""
 +++
 
-{{% alert info %}}
+{{% callout info %}}
 {{< icon name="calendar-alt" pack="fas" >}} You can add [**Otaniemi residential building sauna shifts**](https://calendar.google.com/calendar/embed?src=jpv0nr25o8389bl3mao4q3hb9s%40group.calendar.google.com) to your calendar from the link.
-{{% /alert %}}
+{{% /callout %}}
 
 PTSS collects information about saunas in Otaniemi and its vicinity. For example, all the public sauna shifts of AYY and HOAS can be found in the Otaniemi residential building sauna shifts calendar. Access to saunas usually requires a key or door code. [Telegram](https://t.me/PTSSry) can be used to ask other people who want to go to sauna or to open the sauna door.
 
-{{% alert info %}}
+{{% callout info %}}
 More detailed information about the different saunas can be found on the [**Saunas**]({{<ref "/sauna/_index.md">}}) page.
-{{% /alert %}}
+{{% /callout %}}
 
 <div class="col-12 row text-center">
 {{< figure library="true" src="accessories/patch.jpg" title="Overall's badge, 3€" lightbox="true" width="200">}}
