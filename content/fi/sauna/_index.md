@@ -20,6 +20,9 @@ header:
   image: ""
 ---
 
+{{< toc hide_on="xl" >}}
+
+## Esittely
 Olemme keränneet tälle sivulle tietoa Otaniemen saunoista. Sivun pyrkimys on helpottaa Otaniemeläisten tietoisuutta hyödyntää eri saunomis mahdollisuuksia ja kerätä seuraavia perustietoja saunoista:
 
 - Onko sauna kellarissa {{< icon name="dungeon" pack="fas" >}}?

@@ -20,6 +20,9 @@ header:
   image: ""
 ---
 
+{{< toc hide_on="xl" >}}
+
+## Introduction
 We have collected information about Otaniemi saunas on this page. The aim of the site is to make it easier for Otaniemi residents to take advantage of different sauna facilities and to collect the following basic information about the saunas:
 
 - Is the sauna in a cellar {{< icon name="dungeon" pack="fas" >}}?
