@@ -18,11 +18,3 @@ PTSS kerää tietoa Otaniemen ja sen lähialueen saunoista. Esimerkiksi, Otaniem
 {{% callout info %}}
 Tarkempaa tietoa eri saunoista löytyy [**Saunat**]({{< ref "/sauna/_index.md" >}}) sivulta.
 {{% /callout %}}
-
-<div class="col-12 row text-center">
-{{< figure library="true" src="accessories/patch.jpg" title="Haalarimerkki 1, 3€" lightbox="true" width="200">}}
-{{< figure library="true" src="accessories/patch2.png" title="Haalarimerkki 2, 3€" lightbox="true" width="200">}}
-{{< figure library="true" src="accessories/saunahat.jpg" title="Saunahattu, ilmainen jäsenille" lightbox="true" width="200" >}}
-</div>
-
-Seuralla on myös haalarimerkki ja saunahattu joista tietoa ylhäällä.

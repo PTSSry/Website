@@ -18,11 +18,3 @@ PTSS collects information about saunas in Otaniemi and its vicinity. For example
 {{% callout info %}}
 More detailed information about the different saunas can be found on the [**Saunas**]({{<ref "/sauna/_index.md">}}) page.
 {{% /callout %}}
-
-<div class="col-12 row text-center">
-{{< figure library="true" src="accessories/patch.jpg" title="Overall's badge, 3€" lightbox="true" width="200">}}
-{{< figure library="true" src="accessories/patch2.png" title="Overall's badge 2, 3€" lightbox="true" width="200">}}
-{{< figure library="true" src="accessories/saunahat.jpg" title="Sauna hat, free for members" lightbox="true" width="200">}}
-</div>
-
-The accosiation also has an overalls badge and a sauna hat with information above.
