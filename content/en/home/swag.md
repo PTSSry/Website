@@ -15,4 +15,4 @@ subtitle = ""
 {{< figure library="true" src="accessories/saunahat.jpg" title="Sauna hat, free for members" lightbox="true" width="200">}}
 </div>
 
-The accosiation also has an overalls badge and a sauna hat with information above.
+The association also has an overalls badge and a sauna hat with information above.
